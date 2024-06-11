@@ -8,3 +8,6 @@
 /dataSources.local.xml
 ./idea
 /.idea/
+/dev-0/
+/test-A/
+/train/
