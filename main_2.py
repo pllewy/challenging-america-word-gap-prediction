@@ -96,8 +96,6 @@ if __name__ == '__main__':
         reversed_sentence = ' '.join(reversed_words)
         new_sentences.append(reversed_sentence)
 
-    print(new_sentences)
-
     # Tokenization
     right_tokenizer = Tokenizer()
     right_tokenizer.fit_on_texts(new_sentences)
